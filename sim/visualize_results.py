@@ -1,8 +1,3 @@
-"""
-Post-run results plotting using Matplotlib.
-Pass in the logger DataFrame after simulation completes.
-"""
-
 import matplotlib.pyplot as plt
 
 
